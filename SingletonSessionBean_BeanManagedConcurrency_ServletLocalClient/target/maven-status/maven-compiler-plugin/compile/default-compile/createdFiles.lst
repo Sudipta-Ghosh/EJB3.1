@@ -1,0 +1,3 @@
+com\tutorial\ejb3\GameBean.class
+com\tutorial\ejb3\PlayerBean.class
+com\tutorial\ejb3\client\GameServlet.class
